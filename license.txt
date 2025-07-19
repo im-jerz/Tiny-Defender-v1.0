@@ -1,0 +1,38 @@
+For "Tiny Defender" Password Manager
+(Developed in VB.NET Windows Forms)
+
+Software Developer: im-jerz
+Version: 1.0
+
+By installing or using Tiny Defender, you agree to this EULA. If you disagree, do not use the software.
+
+1. License Grant
+The developer grants you a non-exclusive, non-transferable license to:
+✅ Allowed:
+
+Install and use Tiny Defender on one (1) Windows device.
+
+Use it for personal or business password management.
+
+❌ Prohibited:
+
+Redistributing, selling, or reverse-engineering the software.
+
+Modifying the code or bypassing security features.
+
+2. Ownership
+The developer retains all rights, title, and copyright to Tiny Defender. This EULA does not transfer ownership to you.
+
+3. User Responsibilities
+You must keep your master password secure.
+
+The developer is not responsible for lost/stolen passwords due to user error.
+
+4. No Warranty
+The software is provided "AS IS" without warranties. The developer disclaims liability for damages (data loss, etc.) arising from its use.
+
+5. Termination
+Your license ends if you violate this EULA or uninstall the software.
+
+6. Governing Law
+This EULA is governed by the laws of the Philippines.
