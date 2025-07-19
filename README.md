@@ -28,12 +28,32 @@ A sleek and secure **Password Manager** built with **VB.NET (Windows Forms)** �
 
 ## 🖼️ Screenshots
 
-> *Include screenshots of the app here if possible*
+### Signup Form
+![Signup Form](./screenshot/Signup.png)
 
-* Login Form
-* Vault Management Interface
-* Password Generator
-* Add/Edit Entry Modal
+### Login Form
+![Login Form](./screenshot/Login.png)
+
+### Dashboard Form
+![Dashboard Form](./screenshot/Dashboard.png)
+
+### Auth Code Form
+![Auth Code Form](./screenshot/sixdigitcode.png)
+
+### Add Form
+![Add Form](./screenshot/AccountInfo.png)
+
+### Vault Form
+![Vault Form](./screenshot/Vault.png)
+
+### See Form
+![See Form](./screenshot/see.png)
+
+### Update Form
+![Update Form](./screenshot/Update.png)
+
+### Favorites Form
+![Favorites Form](./screenshot/favorites.png)
 
 ---
 
