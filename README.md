@@ -79,20 +79,6 @@ A sleek and secure **Password Manager** built with **VB.NET (Windows Forms)** �
 
 ---
 
-## 📚 Documentation
-
-All logic and controls are managed via VB.NET WinForms.
-You can review individual modules for:
-
-* `LoginForm.vb` → Entry point and master password validation
-* `MainForm.vb` → Password vault and user interaction
-* `Generator.vb` → Strong password generation logic
-* `Database.vb` → SQLite connection and query execution
-
-> *Documentation comments and region blocks are provided throughout the code.*
-
----
-
 ## 📄 License
 
 This software is licensed under a **custom EULA**.
